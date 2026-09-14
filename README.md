@@ -62,8 +62,8 @@ Web application for customer analysis and segmentation.
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizallll04&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rizalll04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalll04&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -76,15 +76,15 @@ Web application for customer analysis and segmentation.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rizallll04/rizallll04/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/rizalll04/rizalll04/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rizallll04/rizallll04/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/rizalll04/rizalll04/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/rizallll04/rizallll04/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/rizalll04/rizalll04/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
