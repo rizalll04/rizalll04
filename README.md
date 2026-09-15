@@ -59,15 +59,6 @@ Web application for customer analysis and segmentation.
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="./profile/stats.svg" height="170"/>
-  <img src="./profile/top-langs.svg" height="170"/>
-</p>
-
----
-
 ### 🐍 Contribution
 
 <h2 align="center">🐍 Contribution Snake</h2>
