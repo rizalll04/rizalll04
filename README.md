@@ -61,22 +61,11 @@ Web application for customer analysis and segmentation.
 
 ### 🐍 Contribution
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rizalll04/rizalll04/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rizalll04/rizalll04/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/rizalll04/rizalll04/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizallll04/rizallll04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizallll04/rizallll04/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rizallll04/rizallll04/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 ---
