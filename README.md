@@ -1,17 +1,19 @@
-# Hi, I'm Nuh Rizal Fadhilah 👋
+<h1 align="center">
+  👋 Hi, I'm Nuh Rizal Fadhilah
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+Web+Developer;Java+%7C+Spring+Boot;PHP+%7C+Laravel;JavaScript+%7C+Next.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Web+Developer;Java+%7C+Spring+Boot;PHP+%7C+Laravel;JavaScript+%7C+Next.js" />
 </p>
 
 <p align="center">
-  Building web applications & data-driven systems 🚀
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
 ---
-
-### 🛠️ Tech Stack
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
