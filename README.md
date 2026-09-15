@@ -12,8 +12,10 @@
 
 ### 🛠️ Tech Stack
 
+<h2 align="center">⚡ Tech Stack</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,nextjs,react,html,css,mysql,oracle,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,react,nextjs,html,css,mysql,oracle,git,github,vscode&perline=7" />
 </p>
 
 ---
