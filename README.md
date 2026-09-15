@@ -62,8 +62,8 @@ Web application for customer analysis and segmentation.
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizalll04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalll04&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="./profile/stats.svg" height="170"/>
+  <img src="./profile/top-langs.svg" height="170"/>
 </p>
 
 ---
