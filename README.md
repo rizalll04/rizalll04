@@ -10,7 +10,11 @@
 </p>
 
 <p align="center">
-  Building web applications & data-driven systems 🚀
+  <strong>Building web applications & data-driven systems 🚀</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizalll04&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -19,6 +23,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,react,nextjs,html,css,mysql,oracle,git,github,vscode&perline=7" />
+</p>
+
+<p align="center">
+  <i>Technologies I use to build modern web applications and business systems.</i>
 </p>
 
 ---
@@ -32,20 +40,24 @@
       alt="Medicine Forecasting"
     />
   </a>
-
+  &nbsp;
   <a href="https://nares-perfume.vercel.app">
     <img
       src="https://img.shields.io/badge/🌸_NARES_Perfume-Next.js_|_React-8B5CF6?style=for-the-badge"
       alt="NARES Perfume"
     />
   </a>
-
+  &nbsp;
   <a href="#">
     <img
       src="https://img.shields.io/badge/👥_Customer_Segmentation-Laravel_|_JavaScript-06B6D4?style=for-the-badge"
       alt="Customer Segmentation"
     />
   </a>
+</p>
+
+<p align="center">
+  <i>Some of the projects I've worked on and continue to improve.</i>
 </p>
 
 ---
@@ -72,6 +84,25 @@
 
 ---
 
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rizalll04&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=888888&bg_color=00000000"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rizalll04&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
+    height="165"
+  />
+</p>
+
+---
+
 <p align="center">
   <i>Build. Learn. Improve. Repeat. 🚀</i>
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ and lots of code.</sub>
 </p>
