@@ -88,11 +88,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rizalll04&show_icons=true&hide_border=true&theme=transparent"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
     src="https://streak-stats.demolab.com/?user=rizalll04&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
     height="165"
     alt="GitHub Streak"
