@@ -1,21 +1,16 @@
-<h1 align="center">
-  👋 Hi, I'm Nuh Rizal Fadhilah
-</h1>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Web+Developer"
-    alt="Typing SVG"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=Nuh%20Rizal%20Fadhilah&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%" />
 
-<p align="center">
-  <strong>Building web applications & data-driven systems 🚀</strong>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizalll04&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Web+Applications+%26+Business+Systems;Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+Laravel+%7C+Next.js" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rizalll04&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
