@@ -31,8 +31,8 @@
 <p align="center">
   <a href="#">
     <img
-      src="https://img.shields.io/badge/💊_Medicine_Forecasting-Laravel_|_TES-FF6B6B?style=for-the-badge"
-      alt="Medicine Forecasting"
+      src="https://img.shields.io/badge/💊_Medicine_Forecasting-Laravel"
+      alt="Medicine Forecasting TES"
     />
   </a>
   &nbsp;
@@ -45,7 +45,7 @@
   &nbsp;
   <a href="#">
     <img
-      src="https://img.shields.io/badge/👥_Customer_Segmentation-Laravel_|_JavaScript-06B6D4?style=for-the-badge"
+      src="https://img.shields.io/badge/👥_Customer_Segmentation-Laravel"
       alt="Customer Segmentation"
     />
   </a>
