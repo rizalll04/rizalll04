@@ -23,38 +23,6 @@
 <p align="center">
   <i>Technologies I use to build modern web applications and business systems.</i>
 </p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="#">
-    <img
-      src="https://img.shields.io/badge/💊_Medicine_Forecasting-Laravel"
-      alt="Medicine Forecasting TES"
-    />
-  </a>
-  &nbsp;
-  <a href="https://nares-perfume.vercel.app">
-    <img
-      src="https://img.shields.io/badge/🌸_NARES_Perfume-Next.js_|_React-8B5CF6?style=for-the-badge"
-      alt="NARES Perfume"
-    />
-  </a>
-  &nbsp;
-  <a href="#">
-    <img
-      src="https://img.shields.io/badge/👥_Customer_Segmentation-Laravel"
-      alt="Customer Segmentation"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <i>Some of the projects I've worked on and continue to improve.</i>
-</p>
-
 ---
 
 <h2 align="center">🐍 Contribution</h2>
