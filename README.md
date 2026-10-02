@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=Nuh%20Rizal%20Fadhilah&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Nuh%20Rizal%20Fadhilah&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=rizalll04&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6"
+    src="https://streak-stats.demolab.com/?user=rizalll04&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF"
     height="165"
     alt="GitHub Streak"
   />
