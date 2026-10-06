@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Nuh%20Rizal%20Fadhilah&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1020&height=220&section=header&text=Nuh%20Rizal%20Fadhilah&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Web+Applications+%26+Business+Systems;Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+Laravel+%7C+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Web+Applications+%26+Business+Systems;Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+Laravel+%7C+Next.js" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rizalll04&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rizalll04&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=rizalll04&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    src="https://streak-stats.demolab.com/?user=rizalll04&hide_border=true&background=0B1020&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"
     height="165"
     alt="GitHub Streak"
   />
